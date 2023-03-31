@@ -33,7 +33,7 @@ node bot.js
 <h1>Estrutura do projeto</h1>
 O projeto é dividido em dois arquivos principais:
 
-index.js: este é o arquivo principal do bot. Ele inicia o servidor Express e o cliente Discord, e contém o código para direcionar os usuários para canais relevantes com base nas palavras-chave encontradas nas mensagens.
+bot.js: este é o arquivo principal do bot. Ele inicia o servidor Express e o cliente Discord, e contém o código para direcionar os usuários para canais relevantes com base nas palavras-chave encontradas nas mensagens.
 .env: este arquivo contém a chave secreta do bot do Discord. Nunca compartilhe este arquivo ou sua chave secreta com ninguém.
 
 
