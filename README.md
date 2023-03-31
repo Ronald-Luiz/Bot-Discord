@@ -135,6 +135,8 @@ Por esse motivo que utilizamos o framework Express, para criar um servidor e exp
 `OBS: É necessário criar uma conta ou fazer login usando uma conta do Google no UptimeRobot.`<p>
   
 <h1>Como utilizar o site UptimeRobot?</h1><p>
+
+<h3>Acesse o site: https://uptimerobot.com/</h3>
  
 ```
 Primeiro passo:
