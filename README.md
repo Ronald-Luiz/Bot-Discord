@@ -136,16 +136,16 @@ Por esse motivo que utilizamos o framework Express, para criar um servidor e exp
   
 <h1>Como utilizar o site UptimeRobot?</h1><p>
   
-<h2>Primeiro passo:</h2><p>
+`Primeiro passo:`p>
   
 ![image](https://user-images.githubusercontent.com/56053290/229211182-b08d75e5-a5ca-4353-80c1-2306af266ab3.png)
-<h2>Segundo passo:</h2><p>
+`Segundo passo:`<p>
   
 ![image](https://user-images.githubusercontent.com/56053290/229211242-3fdcf734-b16e-4cd0-9d01-bd5ed6fb9d32.png)
-<h2>Terceiro passo:</h2><p>
+`Terceiro passo:`><p>
   
 ![image](https://user-images.githubusercontent.com/56053290/229210614-6423ecca-cfc7-4476-b7ee-4a822eeb51df.png)
-<h2>Ultimo passo:</h2><p>
+`Ultimo passo:`<p>
   
 ![image](https://user-images.githubusercontent.com/56053290/229210679-9c38fcea-d4e8-4061-824d-16768726e2c5.png)
 
