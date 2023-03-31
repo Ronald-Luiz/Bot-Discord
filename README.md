@@ -1,6 +1,6 @@
 <h1>🤖Bot do Discord</h1>
-Este é um bot para o Discord que responde a mensagens em canais específicos e direciona os usuários para canais relacionados com base em palavras-chave encontradas na mensagem.
-
+Este é um bot para o Discord que responde a mensagens em canais específicos e direciona os usuários para canais relacionados com base em palavras-chave encontradas na mensagem.<p>
+  
 Pré-requisitos
 Antes de executar este bot, você precisa ter instalado:
 
