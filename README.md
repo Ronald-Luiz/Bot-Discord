@@ -135,34 +135,37 @@ Por esse motivo que utilizamos o framework Express, para criar um servidor e exp
 `OBS: É necessário criar uma conta ou fazer login usando uma conta do Google no UptimeRobot.`<p>
   
 <h1>Como utilizar o site UptimeRobot?</h1><p>
+ 
+```
+Primeiro passo:
+```
+<p>
   
-`Primeiro passo:`p>
+![image](https://user-images.githubusercontent.com/56053290/229211182-b08d75e5-a5ca-4353-80c1-2306af266ab3.png)<p>
+```
+Segundo passo:
+```
+<p>
   
-![image](https://user-images.githubusercontent.com/56053290/229211182-b08d75e5-a5ca-4353-80c1-2306af266ab3.png)
-`Segundo passo:`<p>
+![image](https://user-images.githubusercontent.com/56053290/229211242-3fdcf734-b16e-4cd0-9d01-bd5ed6fb9d32.png)<p>
+```
+Terceiro passo:
+```
+<p>
   
-![image](https://user-images.githubusercontent.com/56053290/229211242-3fdcf734-b16e-4cd0-9d01-bd5ed6fb9d32.png)
-`Terceiro passo:`><p>
+`OBS: Aqui, você deve inserir o endereço da rota criada pelo Express.`
+![image](https://user-images.githubusercontent.com/56053290/229210614-6423ecca-cfc7-4476-b7ee-4a822eeb51df.png)<p>
+```
+Ultimo passo:
+```
+<p>
   
-![image](https://user-images.githubusercontent.com/56053290/229210614-6423ecca-cfc7-4476-b7ee-4a822eeb51df.png)
-`Ultimo passo:`<p>
-  
+`Se o indicador verde aparecer, isso significa que o UptimeRobot detectou a rota e poderá enviar solicitações para mantê-la ativa.`
 ![image](https://user-images.githubusercontent.com/56053290/229210679-9c38fcea-d4e8-4061-824d-16768726e2c5.png)
 
 
 
 Ao adicionar o link da rota criada no código no UptimeRobot, ele irá enviar requisições periódicas para essa rota. Se o bot estiver funcionando corretamente, ele responderá com o status 200 OK e o UptimeRobot irá considerar o bot online. Caso contrário, o UptimeRobot irá considerar o bot offline e enviará um alerta por e-mail ou mensagem. Dessa forma, é possível garantir que o bot fique online 24 horas por dia.
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h1>Licença</h1>
