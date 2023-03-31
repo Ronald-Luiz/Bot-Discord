@@ -134,7 +134,7 @@ http://replit.com/<p>
 Por esse motivo que utilizamos o framework Express, para criar um servidor e expor uma rota que responde com um status 200 OK quando acessada. Isso permite que o site UptimeRobot (https://uptimerobot.com/) possa monitorar o bot e mantê-lo online.<p>
 `OBS: É necessário criar uma conta ou fazer login usando uma conta do Google no UptimeRobot.`<p>
   
-<h1>Como utilizar o site Uptimerobot?</h1>
+<h1>Como utilizar o site Uptimerobot?</h1><p>
 ![image](https://user-images.githubusercontent.com/56053290/229211182-b08d75e5-a5ca-4353-80c1-2306af266ab3.png)
 ![image](https://user-images.githubusercontent.com/56053290/229211242-3fdcf734-b16e-4cd0-9d01-bd5ed6fb9d32.png)
 ![image](https://user-images.githubusercontent.com/56053290/229210614-6423ecca-cfc7-4476-b7ee-4a822eeb51df.png)
