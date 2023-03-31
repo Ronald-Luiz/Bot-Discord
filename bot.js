@@ -24,7 +24,7 @@ client.once("ready", () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-const channel = "1089598293136388248";
+const channel = "ID_CHANNEL_DISCORD";
 
 client.on('messageCreate', message => {
     if (channel.includes(message.channel.id) && !message.author.bot) {
