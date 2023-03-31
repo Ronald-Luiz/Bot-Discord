@@ -10,7 +10,10 @@ Um token de bot do Discord. Você pode obter um em https://discord.com/developer
 <h1>Configuração</h1>
 Clone este repositório em sua máquina local.
 
-Abra o arquivo .env e insira o token do seu bot do Discord na variável TOKEN.
+crie um arquivo chamado .env e insira o token do seu bot do Discord na variável TOKEN.
+```
+TOKEN=cole-seu-token-aqui
+```
 
 Abra um terminal no diretório clonado e execute o seguinte comando para instalar as dependências:
 
