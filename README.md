@@ -8,7 +8,7 @@ Node.js (versão 12 ou superior)
 Um token de bot do Discord. Você pode obter um em https://discord.com/developers/applications.
 
 <h1>Configuração</h1>
-Clone este repositório em sua máquina local.
+Clone este repositório em sua máquina local.<p>
 
 Crie um arquivo chamado .env na raiz do projeto e insira o token do seu bot do Discord na variável TOKEN como no exemplo abaixo:
 ```
